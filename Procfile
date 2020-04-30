@@ -1,0 +1,1 @@
+web: gunicorn divy.wsgi --log-file -
